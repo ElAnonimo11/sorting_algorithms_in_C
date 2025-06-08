@@ -6,6 +6,6 @@
  * but with the elements that compose it.
  */
 
-void bubble_sort(int* vector,int tam_vector);
+void bubble_sort(int vector[],int tam_vector);
 
 #endif

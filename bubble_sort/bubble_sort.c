@@ -1,7 +1,7 @@
 #include "bubble_sort.h"
 
 
-void bubble_sort(int* vector, int tam_vector)
+void bubble_sort(int vector[], int tam_vector)
 {
     for (int i = tam_vector - 1; i >= 0 ; --i) {
         for (int j = 0; j < i ; ++j) {
